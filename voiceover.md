@@ -106,12 +106,3 @@ Please let me know if you'd like more details on any of this, and I'll take any 
 
 ---
 
-## Q&A
-
-**Q: Do you speak for the entire UARC community?**
-
-Well, I work at one — do I represent the entire UARC community? My bosses, who are in the audience, will tell you otherwise.
-
-A lot of it comes down to understanding mission intent and building that into the research early. I spent the first third of my career doing university work, and the major distinction is that we're really driven by mission intent, and by the specific constraints these systems will have to operate under — having detailed awareness of the downstream applications shapes the early research. That's true from a Research and Exploratory Development perspective. The vast majority of the lab is focused on operational capabilities across the DoD and the intelligence community, which comes with its own challenges around sensitive data and other things.
-
-I won't be able to do full justice to that question — both because I'm just one person, and because my time is up.
