@@ -1,2 +1,5 @@
-# apl-doe-ai-for-science-symposium-2026
-Material presented at the DOE AI for Science Symposium (Sep 22-24, 2026)
+# APL Presentation at the DOE AI for Science AI for Science Symposium
+
+[JHUAPL_AIforScience_092126.pdf](JHUAPL_AIforScience_092126.pdf) is the PDF for a talk given at DOE AI for Science AI for Science Symposium on Sep 22, 2026 (Crystal City, VA).
+
+
